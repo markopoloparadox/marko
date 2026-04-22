@@ -9,3 +9,7 @@
 
 #### Movies
 
+| Movie Name            | Release Date | Running Time | Language | Subtitles | Actors     | Finished Watching |
+| --------------------- | ------------ | ------------ | -------- | --------- | ---------- | ----------------- |
+| Rebel Without a Cause | 1955/10/27   | ENG          | ENG      | -         | James Dean |                   |
+| East of Eden          | 1955/03/09   | ENG          | ENG      | -         | James Dean |                   |
